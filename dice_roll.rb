@@ -8,4 +8,4 @@ def roll
 end
 
 
-roll
+ p roll
