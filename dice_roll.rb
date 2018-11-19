@@ -6,5 +6,5 @@ def roll (number)
    number= 1 + rand(6)
 end
 
-puts roll
+puts roll(6)
 
