@@ -4,6 +4,7 @@
 
 def roll (number)
    number= array(1..6)
+   array.new(number)
 end
 
 puts roll(6)
